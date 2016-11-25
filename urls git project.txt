@@ -1,0 +1,6 @@
+https://github.com/rccursach/VizTransparencia
+https://github.com/MartinGarcia01/datos_limpios_casos
+https://github.com/MartinGarcia01/cargar_casos
+https://github.com/MartinGarcia01/eliminar_nodos_repetidos
+https://github.com/MartinGarcia01/conexioNeoTransparencia
+https://github.com/MartinGarcia01/visualizador_datos_transparencia
